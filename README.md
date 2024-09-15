@@ -17,13 +17,14 @@ Seasoned technology leader with over 15 years of experience in software developm
 
 ## Technical Skills
 
-- **Cloud Platforms:** Google Cloud Platform (GCP), Firebase, AWS
-- **Search & AI:** Typesense, Chroma, Algolia, OpenAI, Anthropic, Huggingface
-- **Frontend:** Vue3, React, Tailwind CSS, Ant Design, Storybook
-- **Backend:** Node.js, PHP, Serverless Architecture
-- **Databases:** SQL, NoSQL
-- **DevOps:** CI/CD, Docker, Kubernetes
-- **Other:** Custom Design Language Systems (DLS), Data Pipelines, Visualization Dashboards
+- **Cloud Platforms:** Google Cloud Platform (GCP), Firebase, AWS, Azure
+- **Search & AI:** Typesense, Chroma, Algolia, OpenAI, Anthropic, Huggingface, Elasticsearch
+- **Frontend:** Vue3, React, Tailwind CSS, Ant Design, Storybook, Pinia (for Vue), Vuex, Redux, SASS, LESS, Webpack, Vite
+- **Backend:** Node.js, PHP, Serverless Architecture, Express.js, NestJS, GraphQL, RESTful APIs, Microservices
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase Firestore, DynamoDB), Redis, Elasticsearch, Vector (Chroma, Faiss, Typesense vector, Pinecone, etc)
+- **DevOps:** CI/CD (Jenkins, GitHub Actions, GitLab CI), Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Helm
+- **Testing & Quality Assurance:** Test-Driven Development (TDD), Behavior-Driven Development (BDD), Jest, Mocha, Chai, Cypress, Selenium, JUnit, PyTest
+- **Other:** Custom Design Language Systems (DLS), Data Pipelines, Visualization Dashboards, Apache Kafka, RabbitMQ, gRPC, OAuth, JWT, WebSockets, API Gateway, Load Balancing, Monitoring & Logging (ELK Stack, Splunk), Agile & Scrum Methodologies, Version Control (Git, SVN), Code Review & Collaboration (Bitbucket, GitHub, GitLab)
 
 ---
 
