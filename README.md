@@ -74,7 +74,7 @@ As a CTO with a strong focus on AI and machine learning, I have extensive experi
 - **Risk Management:** Identified potential risks in technology projects and implemented mitigation strategies to ensure project success.
 - **Compliance & Security:** Ensured all technology solutions adhered to industry standards and compliance requirements, including data privacy and security regulations.
 
-### Senior Cloud Engineer
+### Senior Cloud Engineer (Contract)
 **Nike**  
 *Remote*  
 *March 2020 - November 2021*
@@ -98,7 +98,7 @@ As a CTO with a strong focus on AI and machine learning, I have extensive experi
 - **Quality Assurance:** Implemented rigorous testing protocols and automated testing frameworks to ensure high-quality code and system reliability.
 - **Project Management:** Coordinated project timelines and deliverables, ensuring alignment with business objectives and stakeholder expectations.
 
-### Software Engineer
+### Lead Software Engineer
 **Disney**  
 *Los Angeles, CA*  
 *April 2017 - September 2019*
