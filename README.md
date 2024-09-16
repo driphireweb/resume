@@ -28,6 +28,33 @@ Seasoned technology leader with over 15 years of experience in software developm
 
 ---
 
+## AI and Machine Learning
+
+### Model Training and Vertex AI Technologies
+
+As a CTO with a strong focus on AI and machine learning, I have extensive experience in model training and leveraging advanced AI technologies. Below are the key Vertex AI technologies and stack components I have utilized:
+
+- **Workbench:** Integrated Jupyter-based environment for building, training, and deploying ML models.
+- **Pipelines:** Managed service for orchestrating ML workflows, enabling reproducibility and CI/CD for ML models.
+- **Training:** Scalable service for training ML models using custom containers or pre-built environments.
+- **Prediction:** Managed service for deploying ML models for real-time or batch predictions.
+- **Feature Store:** Centralized repository for managing, sharing, and serving ML features.
+- **Model Monitoring:** Service for monitoring the performance and behavior of deployed models.
+- **Experiments:** Tool for tracking and comparing ML experiments.
+- **Metadata:** Service for managing and tracking metadata related to ML workflows.
+- **Explainable AI:** Tools and techniques for understanding and interpreting model predictions.
+
+### AI and ML Stack
+
+- **Data Ingestion and Preprocessing:** Apache Beam, Dataflow, BigQuery
+- **Model Development:** TensorFlow, PyTorch, scikit-learn
+- **Hyperparameter Tuning:** Vertex AI Vizier
+- **Model Deployment:** Vertex AI Prediction, Kubernetes, Docker
+- **Monitoring and Maintenance:** Vertex AI Model Monitoring, Prometheus, Grafana
+- **Collaboration and Version Control:** Git, GitHub, Vertex AI Experiments
+
+---
+
 ## Professional Experience
 
 ### Chief Technology Officer (CTO)
