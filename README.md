@@ -137,7 +137,7 @@ As a CTO with a strong focus on AI and machine learning, I have extensive experi
 *March 2012 - December 2014*
 
 - **Ad Development:** Worked in the Kindle ADX Advertising group, redesigning and developing ad templates. Ensured high-quality and engaging ad experiences.
-- **Tool Development:** Developed a bolt-on search tool for the Amazon CMS, improving the efficiency of content management.
+- **Tool Development:** Developed a bolt-on search tool for the Amazon CMS (Content Symphony), improving the efficiency of content management.
 - **Collaboration:** Worked closely with designers, product managers, and engineers to deliver high-quality solutions.
 - **User Experience:** Conducted user research and usability testing to ensure ad templates met user needs and preferences.
 - **Innovation:** Explored and implemented new technologies and design trends to enhance the user experience and engagement.
